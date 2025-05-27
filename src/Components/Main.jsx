@@ -2,7 +2,7 @@ import React from 'react'
 
 function Main() {
     return (
-        <div className='h-screen  w-screen  bg-[url("bike1.webp")]  bg-no-repeat  bg-cover'>
+        <div className='h-screen  w-screen  bg-[url("/bike1.webp")]  bg-no-repeat  bg-cover'>
             <h1 className='text-white ml-15  pt-15 font-sans text-5xl' > <span className='block'>High Performance</span><br /> Sports E-bike </h1>
             <div className='float-right mr-15' >
                 <p className='text-white translate-y-[-100px] font-light text-sm'>when you check out the design of an ebike.it's easy<br /> to get sidetracked by the engaging features it offers.</p>
